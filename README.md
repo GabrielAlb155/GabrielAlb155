@@ -19,4 +19,4 @@
 
 ## 📫 Contato
 - E-mail:
--  LinkedIn: linkedin.com/in/gabriel-albuquerque
+-  LinkedIn: [linkedin.com/in/gabriel-albuquerque](https://www.linkedin.com/public-profile/settings/?trk=d_flagship3_profile_self_view_public_profile&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BRz1tdCJQRUqxZC%2B%2Bp2A%2Fbw%3D%3D)
