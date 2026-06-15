@@ -2,9 +2,9 @@
 
 💻 Estudante de Desenvolvimento Web na EBAC  
 📍 Cotia - São Paulo, Brasil  
-🌱 Atualmente aprendendo HTML, CSS e JavaScript  
+🌱 Atualmente aprendendo HTML, CSS e JavaScript. 
 🎮 Apaixonado por tecnologia.
-📍 Cotia, São Paulo, Brasil
+📍 Cotia, São Paulo, Brasil.
 
 ## 🚀 Tecnologias
 - HTML5
