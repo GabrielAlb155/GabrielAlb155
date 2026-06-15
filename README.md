@@ -3,7 +3,8 @@
 💻 Estudante de Desenvolvimento Web na EBAC  
 📍 Cotia - São Paulo, Brasil  
 🌱 Atualmente aprendendo HTML, CSS e JavaScript  
-🎮 Apaixonado por tecnologia e League of Legends
+🎮 Apaixonado por tecnologia.
+📍 Cotia, São Paulo, Brasil
 
 ## 🚀 Tecnologias
 - HTML5
@@ -17,4 +18,5 @@
 - 🌐 Portfólio Pessoal
 
 ## 📫 Contato
-- E-mail: 
+- E-mail:
+-  LinkedIn: linkedin.com/in/gabriel-albuquerque
